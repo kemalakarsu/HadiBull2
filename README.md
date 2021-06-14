@@ -12,14 +12,17 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulama Play Store Linki: 
 
-
-
 00:00 Giriş
+
 00:18 İçindekiler
+
 00:27 HadiBull2 nedir ?  
+
 01:04 HadiBull2 Tasarımı
+
 04:29 Uygulama Kod Açıklamaları
-16:43 Sonuç
+
+16:43 Sonu
 
 
 
