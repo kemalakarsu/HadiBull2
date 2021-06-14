@@ -5,9 +5,9 @@ Ders İçeriği :HadiBull2 nedir ?  HadiBull2 Tasarımı Uygulama Kod Açıklama
 Youtube Kanalımız: BMDersleri
 
 Bağlantı: https://www.youtube.com/c/bmdersleri
-​
+
 Kısa Bağlantı: https://bit.ly/32k9MnJ
-​
+
 Github Adresimiz: https://github.com/bmdersleri
 
 Uygulama Play Store Linki: 
